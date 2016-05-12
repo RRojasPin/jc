@@ -1,0 +1,9 @@
+c:\users\ramiro\desarrollo\sumador\sumador\bin\Debug\sumador.exe.config
+c:\users\ramiro\desarrollo\sumador\sumador\bin\Debug\sumador.exe
+c:\users\ramiro\desarrollo\sumador\sumador\bin\Debug\sumador.pdb
+c:\users\ramiro\desarrollo\sumador\sumador\obj\Debug\sumador.csprojResolveAssemblyReference.cache
+c:\users\ramiro\desarrollo\sumador\sumador\obj\Debug\sumador.Properties.Resources.resources
+c:\users\ramiro\desarrollo\sumador\sumador\obj\Debug\sumador.csproj.GenerateResource.Cache
+c:\users\ramiro\desarrollo\sumador\sumador\obj\Debug\sumador.exe
+c:\users\ramiro\desarrollo\sumador\sumador\obj\Debug\sumador.pdb
+C:\Users\Ramiro\desarrollo\sumador\sumador\obj\Debug\sumador.Form1.resources
