@@ -36,7 +36,7 @@ namespace sumador
             int numero1 = textoANumero(textoNumero1.Text);
             int numero2 = textoANumero(textoNumero2.Text);
 
-            int suma = numero1 - numero2;
+            int suma = numero1 + numero2;
 
             textoResultado.Text = numeroATexto(suma);
             
